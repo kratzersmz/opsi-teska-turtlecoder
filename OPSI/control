@@ -1,13 +1,12 @@
 [Package]
 version: 1
 depends: 
-incremental: False
 
 [Product]
 type: localboot
-id: teska-makecode
-name: teska-makecode
-description: Installiert Makecode
+id: teska-turtlecoder
+name: teska-turtlecoder
+description: Installiert Turtlecoder
 advice: 
 version: 1.0
 priority: 0
